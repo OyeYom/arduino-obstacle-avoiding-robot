@@ -161,7 +161,7 @@ float sense() {
 
 ## Demo Videos
 > Videos of the robot car during testing are available — see the `videos/` 
-> folder or check the links below.
+> folder.
 
 ## What I Learned
 - Arduino UNO programming in C++ using Arduino IDE
