@@ -4,7 +4,7 @@
 > sensor and navigates around them automatically. Built with Arduino UNO, 
 > L298N motor driver, and programmed in C++ using Arduino IDE.
 
-![Robot Car](images/robot-car.png)
+![Robot Car](images/robot-car.jpeg)
 
 ## Overview
 This project is a fully functional autonomous robot car that continuously 
@@ -156,8 +156,8 @@ float sense() {
   would be adding side sensors or a wider-range sensor
 
 ## Images & Videos
-![Robot Car](images/robot-car.png)
-![Circuit Setup](images/circuit-setup.png)
+![Robot Car](images/robot-car-body.jpeg)
+![Circuit Setup](images/robot-car-side.jpeg)
 
 ## Demo Videos
 > Videos of the robot car during testing are available — see the `videos/` 
